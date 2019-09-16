@@ -1,6 +1,9 @@
 Kisbót projekt
 Követelményspecifikáció
 
+Áttekintés:
+	
+
 1. Bevezetés
 	Kisboltunk 35 éve működik, egyetlen inf eszk a pénztárgép, ami kötelező.
 A megrendeléseinket papíron vezetjük és adjuk le.
