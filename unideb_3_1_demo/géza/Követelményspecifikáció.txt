@@ -2,10 +2,9 @@ Kisbót projekt
 Követelményspecifikáció
 
 1. Bevezetés
-	Kisboltunk 35 éve működik, egyetlen inf eszk a pénztárgép, ami kötelező.
-A megrendeléseinket papíron vezetjük és adjuk le.
+	
 2. Jelenlegi helyzet
-
+ Második fejezet teszt
 3. Vágyálom rendszer
 
 4. Jelenlegi üzleti folyamatok modellje
