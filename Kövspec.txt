@@ -12,3 +12,5 @@ Követelményspecifikáció
 4. Jelenlegi üzleti folyamatok modellje
 
 5. Igényelt üzleti folymatok modellje
+Valami szöveg a próba érdekében
+plusz mégegy sor
