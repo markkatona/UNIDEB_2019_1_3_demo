@@ -13,8 +13,10 @@ asd
 -harmadik gondolat
 -negyedik gondolat
 -otodik gondolat
+-hatodik gondolat teszt yoyoyoy
 4. Jelenlegi üzleti folyamatok modellje
-
+asdasdasdasdasd
 5. Igényelt üzleti folymatok modellje
 Valami szöveg a próba érdekében
 plusz mégegy sor
+mergegy test
