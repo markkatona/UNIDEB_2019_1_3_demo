@@ -4,11 +4,15 @@ Követelményspecifikáció
 Áttekintés:
 
 1. Bevezetés
-
+asd
 2. Jelenlegi helyzet
-
+asd
 3. Vágyálom rendszer
-
+-elso gondolat
+-masodik gondolat
+-harmadik gondolat
+-negyedik gondolat
+-otodik gondolat
 4. Jelenlegi üzleti folyamatok modellje
 
 5. Igényelt üzleti folymatok modellje
